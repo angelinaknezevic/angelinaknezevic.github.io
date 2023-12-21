@@ -220,11 +220,15 @@ input, select, textarea {
 		border: solid 1px #ffffff;
 		padding:10px!important;
 		color: #ffffff;
+		-moz-transition: all 0.2s ease-in-out;
+		-webkit-transition: all 0.2s ease-in-out;
+		-ms-transition: all 0.2s ease-in-out;
+		transition: all 0.2s ease-in-out;
 	}
 
 	p a:hover {
 			border: solid 1px #000000;
-			color: #222 !important;
+			color: #623d39 !important;
 			background-color:#ffffff;
 		}
 
