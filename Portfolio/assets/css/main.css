@@ -220,16 +220,16 @@ input, select, textarea {
 		border: solid 1px #ffffff;
 		padding:10px!important;
 		color: #ffffff;
-		-moz-transition: all 0.2s ease-in-out;
-		-webkit-transition: all 0.2s ease-in-out;
-		-ms-transition: all 0.2s ease-in-out;
-		transition: all 0.2s ease-in-out;
+		-moz-transition: all 0.5s ease-in-out;
+		-webkit-transition: all 0.5s ease-in-out;
+		-ms-transition: all 0.5s ease-in-out;
+		transition: all 0.5s ease-in-out;
 	}
 
 	p a:hover {
-			border: solid 1px #000000;
-			color: #623d39 !important;
-			background-color:#ffffff;
+			border: solid 1px #623d39;
+			color: #ffffff !important;
+			background-color:#623d39;
 		}
 
 	strong, b {
@@ -263,7 +263,7 @@ input, select, textarea {
 		font-size: 3em;
 	}
 	h1 a {
-		font-size:2.2em!important;
+		font-size:2em!important;
 		letter-spacing: .15em;
 	}
 
