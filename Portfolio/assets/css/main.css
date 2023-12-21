@@ -1,12 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
-/*
-	Multiverse by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 @-moz-keyframes spinner {
 	0% {
 		-moz-transform: rotate(0deg);
@@ -1719,8 +1713,8 @@ input, select, textarea {
 			-webkit-transition-delay: 2.525s;
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
-			height: calc(40vh - 2em);
-			min-height: 25em;
+			height: calc(35vh - 2em);
+			min-height: 24em;
 			width: 50%;
 		}
 
@@ -1815,8 +1809,8 @@ input, select, textarea {
 				-webkit-transition-delay: 2.075s;
 				-ms-transition-delay: 2.075s;
 				transition-delay: 2.075s;
-				height: calc(40vh - 2em);
-				min-height: 25em;
+				height: calc(35vh - 2em);
+				min-height: 24em;
 				width: 50%;
 			}
 
@@ -1892,8 +1886,8 @@ input, select, textarea {
 				-webkit-transition-delay: 1.625s;
 				-ms-transition-delay: 1.625s;
 				transition-delay: 1.625s;
-				height: calc(40vh - 2em);
-				min-height: 25em;
+				height: calc(35vh - 2em);
+				min-height: 24em;
 				width: 50%;
 			}
 
@@ -2063,3 +2057,9 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
+/*
+	Multiverse by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
