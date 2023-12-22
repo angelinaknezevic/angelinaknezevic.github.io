@@ -223,7 +223,7 @@ input, select, textarea {
 	p a:hover {
 			border: solid 1px #623d39;
 			color: #ffffff !important;
-			background-color:#623d39;
+			background-color:#000000;
 		}
 
 	strong, b {
@@ -1074,7 +1074,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: rgba(98,61,57,.88);
+		background: rgba(0,0,0,.88);
 		/*#623d39:rgba(36, 38, 41, 0.975);*/
 		bottom: 4em;
 		left: 0;
@@ -1479,7 +1479,7 @@ input, select, textarea {
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #623d39;
+		background: #000000;
 		bottom: -1em;
 		height: 5em;
 		left: 0;
@@ -1557,7 +1557,7 @@ input, select, textarea {
 						}
 
 						#header nav > ul > li a.active {
-							background-color: #623d39;
+							background-color: #000000;
 						}
 
 	@media screen and (max-width: 736px) {
